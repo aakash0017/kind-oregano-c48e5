@@ -30,7 +30,7 @@ sections:
       - image: images/logo-1.svg
         image_alt: Logo 1
         image_align: center
-        subtitle: 'Third Year '
+        subtitle: 'Third Year CSE '
         title: Aakash Bhatnagar
         title_align: center
       - image: images/logo-3.svg
