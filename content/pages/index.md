@@ -46,14 +46,13 @@ sections:
     features:
       - title: What’s Inside
         subtitle: How this Paper will help you in Bi-MOO
-        content: |-
-          - All you need to know about PPC
-          - How to create a brand that sells
-          - Putting together a multi-channel marketing plan
-          - Tracking, attribution and analytics
-          - Analyzing your competitors
-          - Marketing ads no one can ignore
-          - The social media of today
+        content: |
+          *   All you need to know about BI-MOO
+          *   What objective functions are used
+          *   Integrating Two-dimension in NSGA - II
+          *   How to make NSGA - II suitable for biclustering
+          *   Different charts and results achieved 
+          *   Representing Two dimensional array in one dimensional
         actions:
           - label: Start learning
             url: /thank-you
