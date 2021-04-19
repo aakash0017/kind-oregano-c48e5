@@ -76,13 +76,7 @@ sections:
           *   Basic Knowldege of Biclustering
           *   Basic Knowledge of NSGA - II
           *   Python Compiler (Preferred Pycharm or Jupyter Notebook)
-        actions:
-          - label: Start learning
-            url: /thank-you
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/book-inside-2.png
         image_alt: Look inside Marketing Playbook
         media_position: left
