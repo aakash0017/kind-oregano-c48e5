@@ -9,7 +9,7 @@ sections:
       with  optimization on multiple objectives such as MSR, NSGA -II will be
       used to achieve this optimization
     actions:
-      - label: Get the book
+      - label: Get the Paper
         url: /pricing
         style: primary
         has_icon: true
