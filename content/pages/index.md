@@ -71,13 +71,11 @@ sections:
     features:
       - title: Practical Implementation
         subtitle: What will you need to implement the Algorithm
-        content: |-
-          - Multi-channel marketing plan tutorials
-          - Brand questionnaire and worksheet
-          - Practice PPC campaigns
-          - 1hr consultation with a marketing guru
-          - Landing page templates
-          - Effective sales presentation starter
+        content: |
+          *   Basic Knowledge of Python
+          *   Basic Knowldege of Biclustering
+          *   Basic Knowledge of NSGA - II
+          *   Python Compiler (Preferred Pycharm or Jupyter Notebook)
         actions:
           - label: Start learning
             url: /thank-you
