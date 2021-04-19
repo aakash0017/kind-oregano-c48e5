@@ -27,7 +27,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Download Paper",
                 "url": "#",
                 "style": "primary",
                 "has_icon": false,
