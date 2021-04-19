@@ -35,7 +35,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Result",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
