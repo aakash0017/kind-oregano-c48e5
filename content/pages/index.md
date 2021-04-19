@@ -5,14 +5,9 @@ sections:
     title: MOO with Biclustering
     subtitle: Integrated Biclustering with NSGA - II
     content: >
-      This paper will describes the results achieved by integrating biclusters 
-
-
+      This paper will describes the results achieved by integrating biclusters
       with  optimization on multiple objectives such as MSR, NSGA -II will be
-      used to achieve this 
-
-
-      Optimization
+      used to achieve this optimization
     actions:
       - label: Get the book
         url: /pricing
