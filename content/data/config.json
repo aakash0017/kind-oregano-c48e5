@@ -25,7 +25,19 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_links": [],
+        "secondary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "has_anncmnt": false,
         "anncmnt_content": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
         "anncmnt_align": "left",
