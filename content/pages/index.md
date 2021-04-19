@@ -36,6 +36,7 @@ sections:
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
+        title: Kriti Jaiswal
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
