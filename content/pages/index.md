@@ -32,6 +32,7 @@ sections:
         image_align: center
         subtitle: Aakash Bhatnagar
         title: Aakash Bhatnagar
+        title_align: center
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
