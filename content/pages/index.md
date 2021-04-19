@@ -92,12 +92,11 @@ sections:
 
           *   To Learn about Biclustering
           *   To Learn about MOO
-      - content: |-
-          #### Designers
-           - Gain big picture insights that affect design
-           - Learn how your design can inspire action
-           - Make advertisements that convert
-           - Create digital assets for the right audience
+      - content: |
+          #### Researchers
+
+          *   Provide insights to the displayed results
+          *   To Help in take this research work further
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
