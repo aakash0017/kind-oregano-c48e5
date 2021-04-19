@@ -219,7 +219,7 @@ sections:
   - type: cta_section
     title: Download the the Paper
     actions:
-      - label: Get the e-book
+      - label: Download
         url: /pricing
         style: primary
     actions_position: bottom
