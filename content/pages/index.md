@@ -70,7 +70,7 @@ sections:
   - type: features_section
     features:
       - title: Practical Implementation
-        subtitle: How you'll implement what you learn
+        subtitle: What will you need to implement the Algorithm
         content: |-
           - Multi-channel marketing plan tutorials
           - Brand questionnaire and worksheet
