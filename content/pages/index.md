@@ -4,10 +4,15 @@ sections:
   - type: hero_section
     title: MOO with Biclustering
     subtitle: Integrated Biclustering with NSGA - II
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: >
+      This paper will describes the results achieved by integrating biclusters 
+
+
+      with  optimization on multiple objectives such as MSR, NSGA -II will be
+      used to achieve this 
+
+
+      Optimization
     actions:
       - label: Get the book
         url: /pricing
