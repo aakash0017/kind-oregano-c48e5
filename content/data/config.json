@@ -6,5 +6,20 @@
     "palette": "gray",
     "mode": "light",
     "base_font": "serif",
-    "domain": "https://kind-oregano-c48e5.netlify.app"
+    "domain": "https://kind-oregano-c48e5.netlify.app",
+    "header": {
+        "title": "lorem-ipsum",
+        "logo_alt": "lorem-ipsum",
+        "has_primary_nav": true,
+        "primary_nav_links": [],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [],
+        "has_anncmnt": false,
+        "anncmnt_content": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+        "anncmnt_align": "left",
+        "anncmnt_is_home_only": false,
+        "anncmnt_has_close": false,
+        "anncmnt_id": "lorem-ipsum",
+        "type": "header"
+    }
 }
