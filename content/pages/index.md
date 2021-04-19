@@ -67,22 +67,6 @@ sections:
     feature_padding_vert: small
     align: center
     background_color: none
-  - type: features_section
-    features:
-      - title: |-
-          “This book is inspiring and practical. It’s thought-provoking and full
-          of examples which definitely motivates me”
-        subtitle: 'Hilary Ouse, Sr. Marketing Manager at Company'
-        image: images/hilary-ouse.png
-        image_alt: Brandon Guidelines
-        media_position: left
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-    background_image: images/background-2.jpg
-    background_image_repeat: no-repeat
-    background_image_size: cover
-    background_image_opacity: 10
   - type: grid_section
     title: Full Chapter  Overview
     grid_items:
