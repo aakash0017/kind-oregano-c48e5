@@ -77,7 +77,7 @@ sections:
           *   Basic Knowledge of NSGA - II
           *   Python Compiler (Preferred Pycharm or Jupyter Notebook)
         actions: []
-        image: images/book-inside-2.png
+        image: images/adecfa41be05bd14575b321d149ae79c.jpg
         image_alt: Look inside Marketing Playbook
         media_position: left
         media_width: fifty
