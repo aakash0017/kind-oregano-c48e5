@@ -6,52 +6,5 @@
     "palette": "gray",
     "mode": "light",
     "base_font": "serif",
-    "header": {
-        "title": "Marketing Playbook",
-        "logo": "images/logo.svg",
-        "logo_alt": "Marketing Playbook logo",
-        "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Overview",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "Theory",
-                "url": "/story",
-                "style": "link"
-            },
-            {
-                "label": "Result",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Team",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
-        "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Start Learning",
-                "url": "/thank-you",
-                "style": "primary"
-            }
-        ],
-        "has_anncmnt": true,
-        "anncmnt_align": "left",
-        "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
-    },
     "domain": "https://kind-oregano-c48e5.netlify.app"
 }
