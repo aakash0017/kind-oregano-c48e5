@@ -30,7 +30,7 @@ sections:
       - image: images/logo-1.svg
         image_alt: Logo 1
         image_align: center
-        subtitle: Aakash Bhat
+        subtitle: Aakash Bhatnagar
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
