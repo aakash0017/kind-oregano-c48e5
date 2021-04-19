@@ -36,9 +36,6 @@ sections:
       - image: images/logo-4.svg
         image_alt: Logo 4
         image_align: center
-      - image: images/logo-5.svg
-        image_alt: Logo 5
-        image_align: center
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
