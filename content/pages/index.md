@@ -48,7 +48,7 @@ sections:
       - image: images/logo-7.svg
         image_alt: Logo 7
         image_align: center
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
