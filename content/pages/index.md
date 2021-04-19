@@ -38,6 +38,7 @@ sections:
         image_align: center
         title: Kriti Jaiswal
         subtitle: Professor NUV
+        title_align: right
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
