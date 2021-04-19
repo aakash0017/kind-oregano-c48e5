@@ -99,12 +99,6 @@ sections:
            - Learn how your design can inspire action
            - Make advertisements that convert
            - Create digital assets for the right audience
-      - content: |-
-          #### Business owners
-           - Kickstart your marketing plan and efforts
-           - Upgrade your brand, website and social media
-           - Prepare effective collateral for your business
-           - Start advertising your company online
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
