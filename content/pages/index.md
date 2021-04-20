@@ -40,6 +40,7 @@ sections:
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    background_color: secondary
   - type: features_section
     features:
       - title: What’s Inside
