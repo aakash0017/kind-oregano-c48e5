@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Aakash Bhatnagar
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
