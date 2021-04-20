@@ -29,7 +29,7 @@ sections:
         type: grid_item
         image: images/background.jpg
       - title: NSGA - II
-        title_align: left
+        title_align: right
         content: >-
           ## Lorem ipsum
 
