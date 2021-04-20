@@ -1,7 +1,7 @@
 ---
 title: Theory
 sections:
-  - title: Biclustering
+  - title: Theory
     actions: []
     grid_items:
       - title: Biclustering
