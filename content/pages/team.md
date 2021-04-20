@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - title: Team
-    subtitle: k;ma
     actions: []
     grid_items:
       - title: Aakash Bhatnagar
