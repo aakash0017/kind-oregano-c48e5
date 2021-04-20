@@ -97,7 +97,8 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action"
+                "type": "action",
+                "label": "BI-MOO"
             }
         ],
         "content": "lorem-ipsum",
