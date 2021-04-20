@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "layout_type": "boxed",
     "style": "classic",
-    "palette": "gray",
+    "palette": "blue",
     "mode": "light",
     "base_font": "serif",
     "domain": "https://kind-oregano-c48e5.netlify.app",
