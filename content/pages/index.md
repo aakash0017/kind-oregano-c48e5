@@ -32,8 +32,7 @@ sections:
         subtitle: 'Third Year CSE '
         title: Aakash Bhatnagar
         title_align: center
-      - image: images/logo-3.svg
-        image_alt: Logo 3
+      - image_alt: Logo 3
         image_align: center
         title: Kriti Jaiswal
         subtitle: Professor NUV
