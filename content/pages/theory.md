@@ -64,7 +64,6 @@ sections:
     type: hero_section
     image: images/book-inside.png
   - title: NSGA - II
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
