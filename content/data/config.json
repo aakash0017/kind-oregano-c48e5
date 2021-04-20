@@ -2,7 +2,7 @@
     "title": "Stackbit Book Theme",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "minimal",
+    "style": "classic",
     "palette": "gray",
     "mode": "light",
     "base_font": "serif",
