@@ -64,17 +64,7 @@ sections:
     type: hero_section
     image: images/book-inside.png
   - title: NSGA - II
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "*   \_Multiobjective\_Optimization\_(MOO):\_It’s\_a framework\_for\_optimizing\_multiple objectives\_simultaneously.​\n\n<!---->\n\n*   Some examples are NSGA-2,\_MOPSO, MOEA.\_​\n\n<!---->\n\n*   In\_the multiobjective\_scenario, there could be multiple feasible\_solutions\_depending upon each objective.\_​​\n"
     actions: []
     image_alt: lorem-ipsum
     media_position: right
