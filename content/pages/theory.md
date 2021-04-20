@@ -2,7 +2,6 @@
 title: Theory
 sections:
   - title: Theory
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
