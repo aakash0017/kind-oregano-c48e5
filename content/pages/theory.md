@@ -8,7 +8,7 @@ sections:
         url: '#'
         style: secondary
         has_icon: false
-        icon: arrow-right
+        icon: arrow-left
         icon_position: right
         new_window: false
         no_follow: false
