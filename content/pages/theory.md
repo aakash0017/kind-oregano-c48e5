@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Theory
 sections: []
 seo:
   title: ''
