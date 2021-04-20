@@ -27,8 +27,7 @@ sections:
     title: Contributed by
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
+      - image_alt: Logo 1
         image_align: center
         subtitle: 'Third Year CSE '
         title: Aakash Bhatnagar
