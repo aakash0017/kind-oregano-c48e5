@@ -28,7 +28,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/background.jpg
-      - title: lorem-ipsum
+      - title: NSGA - II
         subtitle: lorem-ipsum
         title_align: left
         content: >-
