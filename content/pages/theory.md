@@ -20,17 +20,7 @@ sections:
         image: images/background.jpg
       - title: NSGA - II
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "*   \_Multiobjective\_Optimization\_(MOO):\_It’s\_a framework\_for\_optimizing\_multiple objectives\_simultaneously.​\n\n*   There\_are various MOO algorithms that exist say NSGA-2 (Non-Dominated\_ Sorting\_Genetic Algorithm),\_MOPSO(Multiobjective\_particle swarm\_optimization), MOEA\_(Multiobjective\_Evolutionary Algorithm).\_​\n\n*   In\_the multiobjective\_scenario, there could be multiple feasible\_solutions\_depending upon each objective.\_​​\n"
         content_align: left
         actions: []
         actions_align: left
