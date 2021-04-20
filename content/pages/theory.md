@@ -6,7 +6,7 @@ sections:
     actions:
       - label: Download original paper
         url: '#'
-        style: secondary
+        style: link
         has_icon: false
         icon: arrow-left
         icon_position: right
