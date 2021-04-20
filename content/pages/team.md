@@ -1,5 +1,4 @@
 ---
-title: Team
 seo:
   title: ''
   description: ''
