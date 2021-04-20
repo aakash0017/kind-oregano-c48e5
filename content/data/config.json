@@ -5,7 +5,7 @@
     "style": "classic",
     "palette": "blue",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "domain": "https://kind-oregano-c48e5.netlify.app",
     "header": {
         "title": "BI-MOO",
