@@ -63,7 +63,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/book-inside.png
-  - title: lorem-ipsum
+  - title: NSGA - II
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
