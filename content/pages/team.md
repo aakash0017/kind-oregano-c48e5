@@ -51,6 +51,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Kriti Jaiswal
+        image: images/hilary-ouse.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
