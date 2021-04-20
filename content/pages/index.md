@@ -121,7 +121,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/story.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
