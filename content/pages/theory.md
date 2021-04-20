@@ -30,7 +30,7 @@ sections:
   - title: NSGA - II
     content: "*   \_Multiobjective\_Optimization\_(MOO) is a framework\_for\_optimizing\_multiple objectives\_simultaneously.​\n\n<!---->\n\n*   Some examples are NSGA-2,\_MOPSO, MOEA.\_​\n\n<!---->\n\n*   In\_the multiobjective\_scenario, there could be multiple feasible\_solutions\_depending upon each objective.\_​​\n"
     actions:
-      - label: Download Original Paper
+      - label: 'Download '
         url: '#'
         style: link
         has_icon: false
