@@ -1,7 +1,7 @@
 ---
 title: Theory
 sections:
-  - title: lorem-ipsum
+  - title: Biclustering
     features: []
     feature_padding_vert: medium
     align: left
