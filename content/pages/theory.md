@@ -1,7 +1,7 @@
 ---
 title: Theory
 sections:
-  - title: lorem-ipsum
+  - title: Biclustering
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
