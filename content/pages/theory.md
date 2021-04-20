@@ -16,7 +16,7 @@ sections:
     type: features_section
   - title: Multi Objective Optimisation
     actions: []
-    blog_feed_cols: three
+    blog_feed_cols: two
     enable_cards: true
     show_recent: false
     recent_count: 0
