@@ -15,7 +15,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: Multi Objective Optimisation
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: true
