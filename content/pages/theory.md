@@ -47,7 +47,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Biclustering
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
