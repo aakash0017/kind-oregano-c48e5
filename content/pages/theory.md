@@ -29,7 +29,6 @@ sections:
         type: grid_item
         image: images/background.jpg
       - title: NSGA - II
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
