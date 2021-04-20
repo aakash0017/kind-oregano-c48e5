@@ -1,7 +1,7 @@
 ---
 title: Theory
 sections:
-  - title: lorem-ipsum
+  - title: Theory
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
