@@ -47,7 +47,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Biclustering
-    content: "*   Biclustering\_is simultaneous clustering of row and column-wise.\_It\_is\_also called co-clustering.\_​\\<!---->\\<!---->\n\n<!---->\n\n*   Bicluster, corresponding to a subset of genes and a subset of\_conditions with a high similarity\_score.\_​\n\n<!---->\n\n*   Biclustering\_majorly used with gene expression datasets to explore\_the similarity pattern,\_co-relation among genes.\_​​\n"
+    content: "*   Biclustering\_is simultaneous clustering of row and column-wise.\_It\_is\_also called co-clustering.\_​\n\n<!---->\n\n*   Bicluster, corresponding to a subset of genes and a subset of\_conditions with a high similarity\_score.\_​\n\n<!---->\n\n*   Biclustering\_majorly used with gene expression datasets to explore\_the similarity pattern,\_co-relation among genes.\_​​\n"
     actions: []
     image_alt: lorem-ipsum
     media_position: left
