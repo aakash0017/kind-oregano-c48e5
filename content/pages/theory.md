@@ -4,7 +4,7 @@ sections:
   - title: Biclustering
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Biclustering
         subtitle: lorem-ipsum
         title_align: left
         content: >-
