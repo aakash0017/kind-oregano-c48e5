@@ -7,8 +7,6 @@ sections:
     grid_items:
       - title: Dataset Visualisation
         title_align: left
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
