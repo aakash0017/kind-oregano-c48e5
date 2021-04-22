@@ -5,7 +5,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Dataset Visualisation
         subtitle: lorem-ipsum
         title_align: left
         content: >-
