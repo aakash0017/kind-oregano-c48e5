@@ -1,8 +1,7 @@
 ---
 title: Result
 sections:
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: Dataset Visualisation
