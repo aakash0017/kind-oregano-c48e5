@@ -15,8 +15,7 @@ sections:
         type: grid_item
         image: images/tati plot.png
         subtitle: Yeast Dataset Pair Plot
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
