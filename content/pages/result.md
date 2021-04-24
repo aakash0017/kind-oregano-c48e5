@@ -89,17 +89,10 @@ sections:
         image: images/oceanic-zebra.png
       - title: Inverse Area Plot
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          This plot shows the convergence of the inverse area function.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   y-axis - 1/ (Area of bicluster)
         content_align: left
         actions: []
         actions_align: left
