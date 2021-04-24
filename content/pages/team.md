@@ -27,7 +27,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/IMG_8327.jpg
+        image: images/Screenshot 2021-04-24 at 12.50.31 PM.png
       - title_align: left
         content: >-
           ## Lorem ipsum
