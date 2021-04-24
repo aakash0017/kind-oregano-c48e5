@@ -5,7 +5,8 @@ sections:
     content: "*   Biclustering\_is simultaneous clustering of row and column-wise.\_It\_is\_also called co-clustering.\_​\n\n<!---->\n\n*   Bicluster, corresponding to a subset of genes and a subset of\_conditions with a high similarity\_score.\_​\n\n<!---->\n\n*   Biclustering\_majorly used with gene expression datasets to explore\_the similarity pattern,\_co-relation among genes.\_​​\n"
     actions:
       - label: Download original paper
-        url: '#'
+        url: >-
+          https://drive.google.com/file/d/1EjnUYTtvR2NK1451B-jxQMhaRIxvS6eR/view?usp=sharing
         style: link
         has_icon: false
         icon: arrow-left
