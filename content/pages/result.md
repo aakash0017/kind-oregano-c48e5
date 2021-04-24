@@ -58,7 +58,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/scatter plot.png
+        image: images/Screenshot 2021-04-24 at 11.42.12 AM.png
         content: >
           This plot reflects the relation between the 2 objective functions over
           yeast cell cycle data.
