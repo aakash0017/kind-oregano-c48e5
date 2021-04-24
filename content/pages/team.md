@@ -25,7 +25,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/IMG_8327.jpg
       - title_align: left
