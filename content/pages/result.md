@@ -14,7 +14,6 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/tati plot.png
-        subtitle: Yeast Dataset Pair Plot
       - title_align: left
         content_align: left
         actions: []
