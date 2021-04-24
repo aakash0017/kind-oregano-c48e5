@@ -44,7 +44,6 @@ sections:
     type: grid_section
     title: Data Visualisation
   - title: Result
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
