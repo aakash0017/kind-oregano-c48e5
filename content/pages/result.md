@@ -65,7 +65,7 @@ sections:
           *    y-axis - 1/ (Area of Bicluster)
 
           *   x-axis - MSR value
-      - title: MSR line pLot
+      - title: MSR line Plot
         title_align: left
         content: |
           This GRaphs gives us an idea of how MSR converges over the generations
