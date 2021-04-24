@@ -27,7 +27,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/hilary-ouse.png
+        image: images/aakash.png
       - title_align: left
         content: >-
           ## Lorem ipsum
