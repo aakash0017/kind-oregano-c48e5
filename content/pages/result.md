@@ -67,17 +67,10 @@ sections:
           *   x-axis - MSR value
       - title: MSR line pLot
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          This GRaphs gives us an idea of how MSR converges over the generations
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Y-axis - Value of MSR
         content_align: left
         actions: []
         actions_align: left
