@@ -9,7 +9,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_position: top
-        image_width: sixty
+        image_width: fifty
         image_align: left
         image_has_padding: true
         type: grid_item
