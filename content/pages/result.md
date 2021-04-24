@@ -27,7 +27,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/lineplot.png
-        title: Yeast Dataset Pair plot
+        title: Yeast Dataset Line plot
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
