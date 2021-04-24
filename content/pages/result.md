@@ -65,7 +65,7 @@ sections:
           *    y-axis - 1/ (Area of Bicluster)
 
           *   x-axis - MSR value
-      - title: lorem-ipsum
+      - title: MSR Line PLot
         title_align: left
         content: >-
           ## Lorem ipsum
