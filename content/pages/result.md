@@ -85,7 +85,7 @@ sections:
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: large
-    enable_cards: false
+    enable_cards: true
     align: left
     padding_top: medium
     padding_bottom: medium
