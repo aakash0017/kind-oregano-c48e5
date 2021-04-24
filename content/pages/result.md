@@ -59,10 +59,13 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/scatter plot.png
-        content: |
-          This plot reflects the relation between the 2 objective fucntions.
+        content: >
+          This plot reflects the relation between the 2 objective functions over
+          yeast cell cycle data.
 
-          *    y-axis - 1/ (Area of Bicluster)
+
+          *   y-axis - 1/ (Area of Bicluster)
+
 
           *   x-axis - MSR value
       - title: MSR line Plot
