@@ -27,7 +27,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/aakash1.png
+        image: images/IMG_8327.jpg
       - title_align: left
         content: >-
           ## Lorem ipsum
