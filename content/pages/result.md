@@ -66,7 +66,6 @@ sections:
 
           *   x-axis - MSR value
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
