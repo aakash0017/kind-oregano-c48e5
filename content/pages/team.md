@@ -48,7 +48,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         title: Kriti Jaiswal
         image: images/Screenshot 2021-04-24 at 12.51.32 PM.png
