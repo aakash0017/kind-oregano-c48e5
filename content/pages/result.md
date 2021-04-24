@@ -86,7 +86,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/msr line graph.png
+        image: images/oceanic-zebra.png
       - title: lorem-ipsum
         title_align: left
         content: >-
