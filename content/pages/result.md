@@ -84,7 +84,7 @@ sections:
         image: images/msr line graph.png
     grid_cols: two
     grid_gap_vert: small
-    grid_gap_horiz: small
+    grid_gap_horiz: medium
     enable_cards: false
     align: left
     padding_top: medium
