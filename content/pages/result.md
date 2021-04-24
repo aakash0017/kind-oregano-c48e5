@@ -43,7 +43,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: Data Visualisation
-  - title: lorem-ipsum
+  - title: Result
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
