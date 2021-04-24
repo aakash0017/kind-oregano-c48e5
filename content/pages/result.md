@@ -3,8 +3,7 @@ title: Result
 sections:
   - actions: []
     grid_items:
-      - title: Yeast data pair plot
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
