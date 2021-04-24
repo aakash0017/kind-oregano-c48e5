@@ -87,7 +87,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/oceanic-zebra.png
-      - title: lorem-ipsum
+      - title: Inverse Area Plot
         title_align: left
         content: >-
           ## Lorem ipsum
