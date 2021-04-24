@@ -59,6 +59,12 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/scatter plot.png
+        content: |
+          This plot reflects the relation between the 2 objective fucntions.
+
+          *    y-axis - 1/ (Area of Bicluster)
+
+          *   x-axis - MSR value
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
