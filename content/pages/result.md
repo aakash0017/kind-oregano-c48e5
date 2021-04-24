@@ -67,8 +67,10 @@ sections:
           *   x-axis - MSR value
       - title: MSR line Plot
         title_align: left
-        content: |
+        content: >
           This GRaphs gives us an idea of how MSR converges over the generations
+          over Yeast Dataset
+
 
           *   Y-axis - Value of MSR
         content_align: left
