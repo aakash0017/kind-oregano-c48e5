@@ -69,7 +69,11 @@ sections:
         title_align: left
         content: >
           This GRaphs gives us an idea of how MSR converges over the generations
-          over Yeast Dataset
+          over yeast cell cycle data
+
+
+
+
 
 
           *   Y-axis - Value of MSR
