@@ -83,7 +83,6 @@ sections:
         type: grid_item
         image: images/msr line graph.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
