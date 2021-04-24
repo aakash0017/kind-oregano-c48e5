@@ -27,7 +27,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/Screenshot 2021-04-24 at 12.50.31 PM.png
+        image: images/Mask Group 3.png
       - title_align: left
         content: >-
           ## Lorem ipsum
