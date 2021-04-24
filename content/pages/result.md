@@ -46,7 +46,7 @@ sections:
   - title: Result
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Scatter plot
         title_align: left
         content_align: left
         actions: []
