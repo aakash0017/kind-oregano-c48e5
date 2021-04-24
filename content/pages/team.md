@@ -51,7 +51,7 @@ sections:
         image_has_padding: true
         type: grid_item
         title: Kriti Jaiswal
-        image: images/Screenshot 2021-04-24 at 12.51.32 PM.png
+        image: images/Mask Group 4.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
