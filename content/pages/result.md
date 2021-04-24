@@ -14,6 +14,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/tati plot.png
+        subtitle: Yeast Dataset Pair Plot
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
