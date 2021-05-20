@@ -124,14 +124,14 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Book Theme
+  title: Minor Project Theme
   description: The preview of the Book theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Book Theme
+      value: Minor Project Theme
       keyName: property
     - name: 'og:description'
       value: The preview of the Book theme
@@ -143,7 +143,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Book Theme
+      value: Minor Project Theme
     - name: 'twitter:description'
       value: The preview of the Book theme
     - name: 'twitter:image'
